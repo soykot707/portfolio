@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">CivilTech Group concept preview</title>
+<desc id="desc">An illustrated civil engineering website with a stylized road bridge, infrastructure and residential service cards, and project navigation.</desc>
+<defs>
+<linearGradient id="canvas" x2="1" y2="1"><stop stop-color="#14142d"/><stop offset=".65" stop-color="#0b1224"/><stop offset="1" stop-color="#161631"/></linearGradient>
+<radialGradient id="accent"><stop stop-color="#f1ad71" stop-opacity=".38"/><stop offset="1" stop-color="#f1ad71" stop-opacity="0"/></radialGradient>
+<radialGradient id="accent2"><stop stop-color="#62c8ed" stop-opacity=".22"/><stop offset="1" stop-color="#62c8ed" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" stroke="#e0e1ff" stroke-width="1" fill="none" opacity=".12"/></pattern>
+<clipPath id="screen"><rect x="96" y="124" width="768" height="391"/></clipPath>
+<linearGradient id="c-hero" x2="1" y2="1"><stop stop-color="#182937"/><stop offset="1" stop-color="#344551"/></linearGradient>
+<linearGradient id="c-road" x2="1" y2="1"><stop stop-color="#80929a"/><stop offset="1" stop-color="#34434f"/></linearGradient>
+<linearGradient id="c-land" x2="1" y2="1"><stop stop-color="#63808b"/><stop offset="1" stop-color="#405865"/></linearGradient>
+</defs>
+<rect width="960" height="600" fill="url(#canvas)"/>
+<ellipse cx="122" cy="110" rx="340" ry="230" fill="url(#accent)"/>
+<ellipse cx="826" cy="543" rx="351" ry="211" fill="url(#accent2)"/>
+<rect width="960" height="600" fill="url(#grid)" opacity=".5"/>
+<g fill="none" stroke="#f1ad71" opacity=".45"><path d="M55 111V67a12 12 0 0 1 12-12h42M905 111V67a12 12 0 0 0-12-12h-42M55 489v44a12 12 0 0 0 12 12h42M905 489v44a12 12 0 0 1-12 12h-42"/></g>
+<rect x="90" y="89" width="780" height="439" rx="15" fill="#050713" opacity=".42"/>
+<rect x="86" y="78" width="788" height="446" rx="14" fill="#182137" stroke="#8796ce" stroke-opacity=".47"/>
+<rect x="96" y="124" width="768" height="391" fill="#f4f3ef"/>
+<circle cx="108" cy="101" r="3.5" fill="#e594a8"/><circle cx="120" cy="101" r="3.5" fill="#e1c291"/><circle cx="132" cy="101" r="3.5" fill="#93d9bf"/>
+<rect x="328" y="91" width="304" height="20" rx="5" fill="#0b1428" stroke="#6275a0" stroke-opacity=".38"/>
+<text x="480" y="104.6" text-anchor="middle" fill="#b7c6e3" font-family="Arial,sans-serif" font-size="9.4">civiltechgroup.co.uk</text>
+<g clip-path="url(#screen)" font-family="Arial,Helvetica,sans-serif">
+<rect x="96" y="124" width="768" height="46" fill="#f9f8f4"/>
+<path d="M136 154v-14h14m-9 14v-9h9" fill="none" stroke="#bc7548" stroke-width="2.2" stroke-linecap="round"/>
+<text x="159" y="152" fill="#253a46" font-size="12" font-weight="800" letter-spacing="1.75">CIVILTECH GROUP</text>
+<g fill="#57636a" font-size="9" font-weight="700" letter-spacing=".7">
+  <text x="547" y="151">SERVICES</text><text x="620" y="151">PROJECTS</text><text x="693" y="151">CAREERS</text>
+</g>
+<rect x="761" y="136" width="65" height="23" rx="4" fill="#233849"/>
+<text x="793.5" y="151" text-anchor="middle" fill="#fcf7eb" font-size="8.3" font-weight="800">CONTACT</text>
+<rect x="96" y="170" width="768" height="212" fill="url(#c-hero)"/>
+<text x="135" y="215" fill="#edbc8d" font-size="10" font-weight="700" letter-spacing="2.4">HIGHWAYS AND INFRASTRUCTURE</text>
+<text x="132" y="263" fill="#f8f6ec" font-size="34" font-weight="750" letter-spacing="-1.2">Civil engineering</text>
+<text x="132" y="306" fill="#f8f6ec" font-size="34" font-weight="750" letter-spacing="-1.2">and construction.</text>
+<rect x="135" y="329" width="102" height="26" rx="4" fill="#edb787"/>
+<text x="186" y="346" text-anchor="middle" fill="#23303b" font-size="8.6" font-weight="800" letter-spacing=".9">VIEW PROJECTS</text>
+<g transform="translate(480 181)">
+  <path d="M0 166q89-30 177-25t186-31v91H0z" fill="url(#c-land)"/>
+  <path d="M0 173q71-24 132-14t144-6q55-11 87-30" fill="none" stroke="#98afaf" stroke-width="1" opacity=".48"/>
+  <path d="M0 182q77-24 139-13t151-5q41-7 73-25" fill="none" stroke="#98afaf" stroke-width="1" opacity=".42"/>
+  <path d="M19 166L176 78l166 5L228 169z" fill="url(#c-road)" stroke="#a2b5b7" stroke-width="1.5"/>
+  <path d="M19 166l209 3 114-86v9l-110 86-213-3z" fill="#273745"/>
+  <path d="M24 166l151-84m53 86L337 85" stroke="#eab07c" stroke-width="2"/>
+  <path d="M126 165l132-82" stroke="#f0e0be" stroke-width="1.8" stroke-dasharray="10 10"/>
+  <path d="M138 170v26h14l2-26m58 1v25h14l2-25m37-22v38h11l2-47m28-9v27h9l1-35" fill="#9caaab" stroke="#536b77" stroke-width="1.2"/>
+  <path d="M75 135v-31m61-4V72m61 10V50m-136 60l14-6 14 3m33-29l14-6 14 3m33-19l14-6 14 3" fill="none" stroke="#c9dbdc" stroke-width="1.3" stroke-linecap="round"/>
+  <circle cx="311" cy="40" r="28" fill="#edb787" opacity=".83"/>
+  <path d="M260 53h95m-79 9h73" stroke="#a7bac1" stroke-width="1" opacity=".35"/>
+</g>
+<text x="135" y="410" fill="#263c4b" font-size="16" font-weight="750">Explore services and projects</text>
+<g transform="translate(135 425)">
+  <rect width="211" height="72" rx="5" fill="#e5e9e9"/>
+  <path d="M14 33l8-14m14 14-8-14m-3 0v4m0 4v5" stroke="#ae744e" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <text x="46" y="28" fill="#344958" font-size="11" font-weight="700">Highways</text>
+  <rect x="14" y="49" width="129" height="4" rx="2" fill="#a1b0b5"/>
+</g>
+<g transform="translate(373 425)">
+  <rect width="211" height="72" rx="5" fill="#e4e9e9"/>
+  <path d="M15 23h20m-17 0v11m14-11v11m-14-6q7-9 14 0" stroke="#ae744e" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <text x="46" y="28" fill="#344958" font-size="11" font-weight="700">Infrastructure</text>
+  <rect x="14" y="49" width="120" height="4" rx="2" fill="#a1b0b5"/>
+</g>
+<g transform="translate(611 425)">
+  <rect width="211" height="72" rx="5" fill="#e9e7e1"/>
+  <path d="M14 26l11-9 11 9m-20-2v11h18V24m-11 11v-7h5v7" stroke="#ae744e" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="46" y="28" fill="#344958" font-size="11" font-weight="700">Residential</text>
+  <rect x="14" y="49" width="123" height="4" rx="2" fill="#aba99c"/>
+</g></g>
+<text x="480" y="559" text-anchor="middle" fill="#d0d8ee" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" letter-spacing="2.65">CONCEPT PREVIEW</text>
+</svg>

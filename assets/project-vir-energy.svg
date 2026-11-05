@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">Vir Energy concept preview</title>
+  <desc id="desc">An illustrated Spanish-language wellness storefront with a terracotta sun, flowing hills, and three energy therapy cards.</desc>
+  <defs>
+    <linearGradient id="canvas" x2="1" y2="1">
+      <stop stop-color="#24152a"/><stop offset=".58" stop-color="#0c1425"/><stop offset="1" stop-color="#281c2a"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#ed985f" stop-opacity=".45"/><stop offset="1" stop-color="#ed985f" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="warmth">
+      <stop stop-color="#ca7198" stop-opacity=".33"/><stop offset="1" stop-color="#ca7198" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0v28" fill="none" stroke="#f3c5b9" opacity=".11"/>
+    </pattern>
+    <linearGradient id="hero" x2="1" y2="1">
+      <stop stop-color="#f7e6cf"/><stop offset=".6" stop-color="#f5d9bd"/><stop offset="1" stop-color="#e8ae98"/>
+    </linearGradient>
+    <linearGradient id="sun" x2=".2" y2="1">
+      <stop stop-color="#e4a36e"/><stop offset="1" stop-color="#b95d4f"/>
+    </linearGradient>
+    <clipPath id="screen"><rect x="96" y="124" width="768" height="391"/></clipPath>
+    <clipPath id="art"><rect x="521" y="170" width="343" height="210"/></clipPath>
+  </defs>
+  <rect width="960" height="600" fill="url(#canvas)"/>
+  <ellipse cx="161" cy="125" rx="390" ry="256" fill="url(#glow)"/>
+  <ellipse cx="813" cy="500" rx="329" ry="232" fill="url(#warmth)"/>
+  <rect width="960" height="600" fill="url(#grid)" opacity=".56"/>
+  <path d="M55 111V67a12 12 0 0 1 12-12h42m796 56V67a12 12 0 0 0-12-12h-42M55 489v44a12 12 0 0 0 12 12h42m796-56v44a12 12 0 0 1-12 12h-42" fill="none" stroke="#ecaa94" opacity=".42"/>
+  <rect x="90" y="89" width="780" height="439" rx="15" fill="#050713" opacity=".42"/>
+  <rect x="86" y="78" width="788" height="446" rx="14" fill="#252033" stroke="#b48fa9" stroke-opacity=".55"/>
+  <circle cx="108" cy="101" r="3.5" fill="#e594a8"/>
+  <circle cx="120" cy="101" r="3.5" fill="#e1c291"/>
+  <circle cx="132" cy="101" r="3.5" fill="#93d9bf"/>
+  <rect x="328" y="91" width="304" height="20" rx="5" fill="#181423" stroke="#8e779b" stroke-opacity=".38"/>
+  <text x="480" y="105" text-anchor="middle" fill="#e2d5df" font-family="Arial, sans-serif" font-size="9.4">virenergyheal.com</text>
+  <g clip-path="url(#screen)" font-family="Arial, sans-serif">
+    <rect x="96" y="124" width="768" height="391" fill="#fff7eb"/>
+    <g fill="none" stroke="#a34b42" stroke-width="1.3">
+      <circle cx="138" cy="147" r="9"/><path d="M138 133v28m-14-14h28m-24-10 20 20m0-20-20 20"/>
+    </g>
+    <text x="158" y="153" font-family="Georgia, serif" font-size="19" fill="#482d38">Vir Energy</text>
+    <g fill="#76504f" font-size="9" font-weight="700" letter-spacing=".65">
+      <text x="603" y="151">SESIONES</text><text x="674" y="151">TERAPIAS</text><text x="747" y="151">CONTACTO</text>
+    </g>
+    <path d="M819 144h12l-1 10h-10zm3 0v-2a3 3 0 0 1 6 0v2" fill="none" stroke="#76504f" stroke-width="1.25" stroke-linejoin="round"/>
+    <rect x="96" y="170" width="768" height="210" fill="url(#hero)"/>
+    <g clip-path="url(#art)">
+      <circle cx="710" cy="268" r="105" fill="none" stroke="#a9584f" opacity=".35"/>
+      <circle cx="710" cy="268" r="92" fill="none" stroke="#a9584f" opacity=".48"/>
+      <circle cx="710" cy="268" r="76" fill="url(#sun)"/>
+      <path d="M522 350q49-30 95-19 52 12 84-12 72-58 164-29v91H522z" fill="#bd6a59"/>
+      <path d="M522 369q65-30 125-13 38 11 77-10 57-33 141-27v62H522z" fill="#a85350"/>
+      <path d="M522 380q62-23 114-10 51 12 105-6 60-24 124-19v36H522z" fill="#713949"/>
+      <path d="M710 180v11m0 149v11m-88-83h11m154 0h11m-150-62 8 8m108 108 8 8m0-124-8 8M656 322l-8 8" stroke="#f5d4b0" stroke-width="1.2" opacity=".8"/>
+      <path d="M798 214q21 10 42-2m-37 15q16 6 32-1m-285 8q14 9 40 1" fill="none" stroke="#a9584f" stroke-width="1.2" opacity=".55"/>
+    </g>
+    <text x="135" y="211" fill="#81413e" font-size="10" font-weight="700" letter-spacing="2.2">BIENESTAR Y SANACIÓN</text>
+    <text x="132" y="261" fill="#482c36" font-family="Georgia, serif" font-size="41">Reconecta</text>
+    <text x="133" y="308" fill="#482c36" font-family="Georgia, serif" font-size="41" font-style="italic">contigo.</text>
+    <rect x="135" y="331" width="127" height="28" rx="14" fill="#6d363c"/>
+    <text x="198.5" y="349" text-anchor="middle" fill="#fff7eb" font-size="8.5" font-weight="700" letter-spacing="1.1">RESERVAR SESIÓN</text>
+    <text x="135" y="406" fill="#482d38" font-family="Georgia, serif" font-size="20">Terapias energéticas</text>
+    <g transform="translate(135 419)">
+      <rect width="216" height="77" rx="6" fill="#f6e0cc"/>
+      <circle cx="36" cy="38" r="23" fill="#ead0b3"/>
+      <path d="M36 25c4 8 9 10 9 16a9 9 0 0 1-18 0c0-6 5-8 9-16z" fill="none" stroke="#995d53" stroke-width="1.5"/>
+      <text x="69" y="34" fill="#532f38" font-size="10.5" font-weight="700">Sesiones 1:1</text>
+      <rect x="69" y="45" width="80" height="4" rx="2" fill="#c89484"/>
+    </g>
+    <g transform="translate(372 419)">
+      <rect width="216" height="77" rx="6" fill="#f4ded6"/>
+      <circle cx="36" cy="38" r="23" fill="#e6c3bc"/>
+      <path d="M36 23q0 15 15 15-15 0-15 15 0-15-15-15 15 0 15-15z" fill="none" stroke="#93535b" stroke-width="1.5"/>
+      <text x="69" y="34" fill="#532f38" font-size="10.5" font-weight="700">Limpieza energética</text>
+      <rect x="69" y="45" width="94" height="4" rx="2" fill="#bf8f90"/>
+    </g>
+    <g transform="translate(609 419)">
+      <rect width="216" height="77" rx="6" fill="#ede0d8"/>
+      <circle cx="36" cy="38" r="23" fill="#dbc6bc"/>
+      <path d="M36 25a13 13 0 1 0 13 13A10 10 0 0 1 36 25z" fill="none" stroke="#7e5a63" stroke-width="1.5"/>
+      <text x="69" y="34" fill="#532f38" font-size="10.5" font-weight="700">Reequilibrio de chakras</text>
+      <rect x="69" y="45" width="88" height="4" rx="2" fill="#ad9591"/>
+    </g>
+  </g>
+  <text x="480" y="559" text-anchor="middle" fill="#ead5de" font-family="Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="2.65">CONCEPT PREVIEW</text>
+</svg>

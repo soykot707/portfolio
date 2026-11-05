@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">American Working Capital concept preview</title>
+<desc id="desc">An illustrated investment firm website with an indigo architectural motif and cards for investment criteria, portfolio companies, and the team.</desc>
+<defs>
+<linearGradient id="canvas" x2="1" y2="1"><stop stop-color="#14142d"/><stop offset=".65" stop-color="#0b1224"/><stop offset="1" stop-color="#161631"/></linearGradient>
+<radialGradient id="accent"><stop stop-color="#8ca4ff" stop-opacity=".38"/><stop offset="1" stop-color="#8ca4ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="accent2"><stop stop-color="#5ad5f3" stop-opacity=".22"/><stop offset="1" stop-color="#5ad5f3" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" stroke="#e0e1ff" stroke-width="1" fill="none" opacity=".12"/></pattern>
+<clipPath id="screen"><rect x="96" y="124" width="768" height="391" rx="0"/></clipPath>
+<linearGradient id="a-hero" x2="1" y2="1"><stop stop-color="#142547"/><stop offset="1" stop-color="#283863"/></linearGradient>
+<linearGradient id="a-glass" x2="1" y2="1"><stop stop-color="#8db8dc"/><stop offset="1" stop-color="#416994"/></linearGradient>
+<pattern id="a-facade" width="15" height="18" patternUnits="userSpaceOnUse"><path d="M0 0h15v18H0z" fill="none" stroke="#d1e8fa" stroke-width=".65" opacity=".42"/></pattern>
+</defs>
+<rect width="960" height="600" fill="url(#canvas)"/>
+<ellipse cx="122" cy="110" rx="340" ry="230" fill="url(#accent)"/>
+<ellipse cx="826" cy="543" rx="351" ry="211" fill="url(#accent2)"/>
+<rect width="960" height="600" fill="url(#grid)" opacity=".5"/>
+<g fill="none" stroke="#8ca4ff" opacity=".45"><path d="M55 111V67a12 12 0 0 1 12-12h42M905 111V67a12 12 0 0 0-12-12h-42M55 489v44a12 12 0 0 0 12 12h42M905 489v44a12 12 0 0 1-12 12h-42"/></g>
+<rect x="90" y="89" width="780" height="439" rx="15" fill="#050713" opacity=".42"/>
+<rect x="86" y="78" width="788" height="446" rx="14" fill="#182137" stroke="#8796ce" stroke-opacity=".47"/>
+<rect x="96" y="124" width="768" height="391" fill="#e9eef7"/>
+<circle cx="108" cy="101" r="3.5" fill="#e594a8"/><circle cx="120" cy="101" r="3.5" fill="#e1c291"/><circle cx="132" cy="101" r="3.5" fill="#93d9bf"/>
+<rect x="328" y="91" width="304" height="20" rx="5" fill="#0b1428" stroke="#6275a0" stroke-opacity=".38"/>
+<text x="480" y="104.6" text-anchor="middle" fill="#b7c6e3" font-family="Arial,sans-serif" font-size="9.4">aidanmay.titanswp.com</text>
+<g clip-path="url(#screen)" font-family="Arial,Helvetica,sans-serif">
+<rect x="96" y="124" width="768" height="46" fill="#f1f4fa"/>
+<path d="M136 152l7-12 7 12m-13-2h12" stroke="#46658d" stroke-width="1.4" fill="none" stroke-linejoin="round"/>
+<text x="158" y="151" fill="#233b61" font-size="10.5" font-weight="800" letter-spacing="1.3">AMERICAN WORKING CAPITAL</text>
+<g fill="#4d6280" font-size="9" font-weight="700" letter-spacing=".7">
+  <text x="581" y="151">APPROACH</text><text x="660" y="151">INVESTMENTS</text><text x="757" y="151">TEAM</text>
+</g>
+<rect x="96" y="170" width="768" height="209" fill="url(#a-hero)"/>
+<circle cx="755" cy="273" r="131" fill="#b4caef" opacity=".08"/>
+<text x="135" y="219" fill="#a6cae9" font-size="10" font-weight="700" letter-spacing="2.5">PRIVATE CAPITAL</text>
+<text x="132" y="267" fill="#f2f8ff" font-family="Georgia,serif" font-size="39">Partners for</text>
+<text x="132" y="312" fill="#f2f8ff" font-family="Georgia,serif" font-size="39">long-term growth.</text>
+<rect x="135" y="333" width="111" height="26" rx="4" fill="#b2cde5"/>
+<text x="149" y="350" fill="#192f50" font-size="8.6" font-weight="800" letter-spacing="1.1">OUR APPROACH</text>
+<g>
+  <path d="M532 377v-92l75-29 57 36v85z" fill="#416284"/>
+  <path d="M532 377v-92l75-29 57 36v85z" fill="url(#a-facade)"/>
+  <path d="M607 377V256l57 36v85z" fill="#294363" opacity=".65"/>
+  <path d="M608 377V229l83-41 63 44v145z" fill="url(#a-glass)"/>
+  <path d="M608 377V229l83-41 63 44v145z" fill="url(#a-facade)"/>
+  <path d="M691 188l63 44v145h-63z" fill="#2a486b" opacity=".58"/>
+  <path d="M728 377V263l55-29 54 34v109z" fill="#688eaf"/>
+  <path d="M728 377V263l55-29 54 34v109z" fill="url(#a-facade)"/>
+  <path d="M783 234l54 34v109h-54z" fill="#365577" opacity=".64"/>
+  <path d="M520 377h325" stroke="#adcce5" stroke-width="1.2" opacity=".46"/>
+</g>
+<text x="135" y="410" fill="#283e60" font-family="Georgia,serif" font-size="19">Explore the firm</text>
+<g transform="translate(135 424)">
+  <rect width="211" height="72" rx="5" fill="#dce5f1"/>
+  <path d="M15 29l7-8 7 5 8-10m-5 0h5v5" stroke="#4d729e" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="45" y="27" fill="#233d65" font-size="11" font-weight="700">Investment criteria</text>
+  <rect x="15" y="47" width="139" height="4" rx="2" fill="#8ba4bd" opacity=".66"/>
+</g>
+<g transform="translate(373 424)">
+  <rect width="211" height="72" rx="5" fill="#dee8f3"/>
+  <path d="M16 22h20v11H16z M22 22v-4h8v4" stroke="#4d729e" stroke-width="1.6" fill="none" stroke-linejoin="round"/>
+  <text x="45" y="27" fill="#233d65" font-size="11" font-weight="700">Portfolio companies</text>
+  <rect x="15" y="47" width="120" height="4" rx="2" fill="#8ba4bd" opacity=".66"/>
+</g>
+<g transform="translate(611 424)">
+  <rect width="211" height="72" rx="5" fill="#dae5f1"/>
+  <circle cx="25" cy="20" r="4" fill="none" stroke="#4d729e" stroke-width="1.6"/>
+  <path d="M16 33v-2a9 9 0 0 1 18 0v2z" stroke="#4d729e" stroke-width="1.6" fill="none" stroke-linejoin="round"/>
+  <text x="45" y="27" fill="#233d65" font-size="11" font-weight="700">Team directory</text>
+  <rect x="15" y="47" width="125" height="4" rx="2" fill="#8ba4bd" opacity=".66"/>
+</g></g>
+<text x="480" y="559" text-anchor="middle" fill="#d0d8ee" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" letter-spacing="2.65">CONCEPT PREVIEW</text>
+</svg>

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">Moshoi Furniture concept preview</title>
+<desc id="desc">An illustrated bespoke furniture catalog with an arched room scene, a curved sofa, product category cards, and a quote button.</desc>
+<defs>
+<linearGradient id="canvas" x2="1" y2="1"><stop stop-color="#14142d"/><stop offset=".65" stop-color="#0b1224"/><stop offset="1" stop-color="#161631"/></linearGradient>
+<radialGradient id="accent"><stop stop-color="#e8aa9a" stop-opacity=".38"/><stop offset="1" stop-color="#e8aa9a" stop-opacity="0"/></radialGradient>
+<radialGradient id="accent2"><stop stop-color="#8fa38c" stop-opacity=".22"/><stop offset="1" stop-color="#8fa38c" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" stroke="#e0e1ff" stroke-width="1" fill="none" opacity=".12"/></pattern>
+<clipPath id="screen"><rect x="96" y="124" width="768" height="391"/></clipPath>
+<linearGradient id="f-hero" x2="1" y2="1"><stop stop-color="#f0e1d0"/><stop offset="1" stop-color="#eacbb8"/></linearGradient>
+<linearGradient id="f-sofa" x2="1" y2="1"><stop stop-color="#b87365"/><stop offset="1" stop-color="#8d514c"/></linearGradient>
+<linearGradient id="f-arch" x2="0" y2="1"><stop stop-color="#b8ad91"/><stop offset="1" stop-color="#e9d6b9"/></linearGradient>
+</defs>
+<rect width="960" height="600" fill="url(#canvas)"/>
+<ellipse cx="122" cy="110" rx="340" ry="230" fill="url(#accent)"/>
+<ellipse cx="826" cy="543" rx="351" ry="211" fill="url(#accent2)"/>
+<rect width="960" height="600" fill="url(#grid)" opacity=".5"/>
+<g fill="none" stroke="#e8aa9a" opacity=".45"><path d="M55 111V67a12 12 0 0 1 12-12h42M905 111V67a12 12 0 0 0-12-12h-42M55 489v44a12 12 0 0 0 12 12h42M905 489v44a12 12 0 0 1-12 12h-42"/></g>
+<rect x="90" y="89" width="780" height="439" rx="15" fill="#050713" opacity=".42"/>
+<rect x="86" y="78" width="788" height="446" rx="14" fill="#182137" stroke="#8796ce" stroke-opacity=".47"/>
+<rect x="96" y="124" width="768" height="391" fill="#fcf4e8"/>
+<circle cx="108" cy="101" r="3.5" fill="#e594a8"/><circle cx="120" cy="101" r="3.5" fill="#e1c291"/><circle cx="132" cy="101" r="3.5" fill="#93d9bf"/>
+<rect x="328" y="91" width="304" height="20" rx="5" fill="#0b1428" stroke="#6275a0" stroke-opacity=".38"/>
+<text x="480" y="104.6" text-anchor="middle" fill="#b7c6e3" font-family="Arial,sans-serif" font-size="9.4">moshoifurniture.com</text>
+<g clip-path="url(#screen)" font-family="Arial,Helvetica,sans-serif">
+<rect x="96" y="124" width="768" height="46" fill="#fff8ee"/>
+<text x="135" y="152" fill="#493a32" font-family="Georgia,serif" font-size="14" font-weight="700" letter-spacing="1.8">MOSHOI FURNITURE</text>
+<g fill="#67594d" font-size="9" font-weight="700" letter-spacing=".7">
+  <text x="539" y="151">COLLECTIONS</text><text x="635" y="151">BY ROOM</text><text x="704" y="151">ABOUT</text>
+</g>
+<rect x="765" y="136" width="61" height="23" rx="3" fill="#6b4a43"/>
+<text x="795.5" y="151" text-anchor="middle" fill="#fff3e8" font-size="8.3" font-weight="800">GET QUOTE</text>
+<rect x="96" y="170" width="768" height="214" fill="url(#f-hero)"/>
+<text x="135" y="216" fill="#805749" font-size="10" font-weight="700" letter-spacing="2.5">BESPOKE HOME FURNITURE</text>
+<text x="132" y="265" fill="#523e35" font-family="Georgia,serif" font-size="37">Furniture made</text>
+<text x="132" y="308" fill="#523e35" font-family="Georgia,serif" font-size="37">for your space.</text>
+<rect x="135" y="331" width="143" height="26" rx="3" fill="#80574a"/>
+<text x="206.5" y="348" text-anchor="middle" fill="#fff5e8" font-size="8.6" font-weight="800" letter-spacing=".9">BROWSE COLLECTIONS</text>
+<path d="M623 362V251a61 61 0 0 1 122 0v111z" fill="url(#f-arch)" stroke="#d2ad98" stroke-width="2"/>
+<path d="M634 360V251a50 50 0 0 1 100 0v109z" fill="none" stroke="#f3dfc9" stroke-width="1.5" opacity=".65"/>
+<ellipse cx="677" cy="361" rx="151" ry="13" fill="#956d5f" opacity=".21"/>
+<path d="M564 339h7v17h-7zm203 0h7v17h-7z" fill="#66463c"/>
+<path d="M553 318q0-24 30-30v-7q0-20 24-20h102q34 0 42 31 35 3 35 28v11q0 16-25 16H580q-27 0-27-18z" fill="url(#f-sofa)" stroke="#88534c" stroke-width="1.6"/>
+<path d="M560 314q12-15 32-13 20 1 32 19h83q9-16 31-16 29-1 43 15m-157 1v17m83-17v17" fill="none" stroke="#e1a799" stroke-width="1.7" stroke-linecap="round" opacity=".9"/>
+<path d="M606 285q10-7 24-2l10 20q-20 4-30-3z" fill="#d5a38a" stroke="#ba836d" stroke-width="1"/>
+<path d="M671 277q12-4 27 3l4 21q-17 4-28-2z" fill="#ad8067" stroke="#92604d" stroke-width="1"/>
+<path d="M802 329v29m-12 0h24m-12-29q-18-7-14-24 10 8 14 24m0 0q0-17 13-20 2 13-13 20" fill="none" stroke="#6f7a64" stroke-width="1.7" stroke-linecap="round"/>
+<text x="135" y="411" fill="#554337" font-family="Georgia,serif" font-size="19">Browse furniture collections</text>
+<g transform="translate(135 425)">
+  <rect width="211" height="72" rx="5" fill="#f0e3d7"/>
+  <rect x="8" y="8" width="63" height="56" rx="3" fill="#e3c8ba"/>
+  <path d="M18 47v-7q0-7 8-8v-3q0-6 7-6h14q7 0 7 7v2q7 1 7 8v7z" fill="#a77566"/>
+  <text x="83" y="31" fill="#563f36" font-size="11" font-weight="700">Sofas</text>
+  <rect x="83" y="42" width="78" height="4" rx="2" fill="#bca291"/>
+</g>
+<g transform="translate(373 425)">
+  <rect width="211" height="72" rx="5" fill="#eee2d3"/>
+  <rect x="8" y="8" width="63" height="56" rx="3" fill="#ddc4a6"/>
+  <ellipse cx="39" cy="33" rx="19" ry="6" fill="#9c7558"/>
+  <path d="M29 35l-5 15m24-15 7 15" stroke="#8b644e" stroke-width="3" stroke-linecap="round"/>
+  <text x="83" y="31" fill="#563f36" font-size="11" font-weight="700">Dining sets</text>
+  <rect x="83" y="42" width="80" height="4" rx="2" fill="#bca291"/>
+</g>
+<g transform="translate(611 425)">
+  <rect width="211" height="72" rx="5" fill="#ece5d8"/>
+  <rect x="8" y="8" width="63" height="56" rx="3" fill="#c9c2a9"/>
+  <path d="M20 44V27q0-5 5-5h16q5 0 5 5v9h12v8z" fill="#a39076"/>
+  <path d="M20 42h38v7H20z" fill="#7e8168"/>
+  <text x="83" y="31" fill="#563f36" font-size="11" font-weight="700">Beds</text>
+  <rect x="83" y="42" width="72" height="4" rx="2" fill="#b0a58f"/>
+</g></g>
+<text x="480" y="559" text-anchor="middle" fill="#d0d8ee" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" letter-spacing="2.65">CONCEPT PREVIEW</text>
+</svg>

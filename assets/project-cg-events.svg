@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+  <title id="title">CG Events concept preview</title>
+  <desc id="desc">An illustrated event design website with a plum masthead, hand-drawn floral arch, and event portfolio categories.</desc>
+  <defs>
+    <linearGradient id="canvas" x2="1" y2="1">
+      <stop stop-color="#22152c"/><stop offset=".56" stop-color="#0d1327"/><stop offset="1" stop-color="#241523"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#db6fa9" stop-opacity=".4"/><stop offset="1" stop-color="#db6fa9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2">
+      <stop stop-color="#d6a970" stop-opacity=".28"/><stop offset="1" stop-color="#d6a970" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0v28" fill="none" stroke="#eec9dc" opacity=".11"/>
+    </pattern>
+    <linearGradient id="hero" x2="1" y2="1">
+      <stop stop-color="#271830"/><stop offset=".52" stop-color="#4e2643"/><stop offset="1" stop-color="#713d51"/>
+    </linearGradient>
+    <linearGradient id="arch" x2=".2" y2="1">
+      <stop stop-color="#ffd7b0"/><stop offset=".5" stop-color="#ce9d84"/><stop offset="1" stop-color="#9a685e"/>
+    </linearGradient>
+    <clipPath id="screen"><rect x="96" y="124" width="768" height="391"/></clipPath>
+    <g id="flower">
+      <path d="M0-13C5-16 8-9 5-4C11-10 17-5 13 0C20 1 16 10 9 8C11 15 3 17 0 10C-5 16-12 13-9 7C-16 9-19 0-12-3C-16-9-8-13-4-7C-6-13-3-16 0-13z" fill="currentColor"/>
+      <path d="M-6-2C-2-8 6-8 7 0C9 5 1 8-3 4C-8 5-10 1-6-2z" fill="#70434f" opacity=".34"/>
+      <circle cx="0" cy="0" r="2.8" fill="#f8d3a6"/>
+    </g>
+    <path id="leaf" d="M0 0Q5-10 17-13 16-2 0 0z" fill="currentColor"/>
+  </defs>
+  <rect width="960" height="600" fill="url(#canvas)"/>
+  <ellipse cx="130" cy="103" rx="368" ry="240" fill="url(#glow)"/>
+  <ellipse cx="820" cy="541" rx="341" ry="222" fill="url(#glow2)"/>
+  <rect width="960" height="600" fill="url(#grid)" opacity=".54"/>
+  <path d="M55 111V67a12 12 0 0 1 12-12h42m796 56V67a12 12 0 0 0-12-12h-42M55 489v44a12 12 0 0 0 12 12h42m796-56v44a12 12 0 0 1-12 12h-42" fill="none" stroke="#eab0c6" opacity=".44"/>
+  <rect x="90" y="89" width="780" height="439" rx="15" fill="#050713" opacity=".42"/>
+  <rect x="86" y="78" width="788" height="446" rx="14" fill="#252033" stroke="#b48fa9" stroke-opacity=".55"/>
+  <circle cx="108" cy="101" r="3.5" fill="#e594a8"/>
+  <circle cx="120" cy="101" r="3.5" fill="#e1c291"/>
+  <circle cx="132" cy="101" r="3.5" fill="#93d9bf"/>
+  <rect x="328" y="91" width="304" height="20" rx="5" fill="#181423" stroke="#8e779b" stroke-opacity=".38"/>
+  <text x="480" y="105" text-anchor="middle" fill="#e2d5df" font-family="Arial, sans-serif" font-size="9.4">chanigreenbaum.com</text>
+  <g clip-path="url(#screen)" font-family="Arial, sans-serif">
+    <rect x="96" y="124" width="768" height="391" fill="#f9efeb"/>
+    <text x="135" y="155" fill="#3a293c" font-family="Georgia, serif" font-size="20">CG Events.</text>
+    <g fill="#674d5a" font-size="9" font-weight="700" letter-spacing=".75">
+      <text x="595" y="151">ABOUT</text><text x="656" y="151">PORTFOLIO</text>
+      <text x="743" y="151">INQUIRE</text>
+    </g>
+    <path d="M808 153l10-10m-7 0h7v7" fill="none" stroke="#8c6470" stroke-width="1.2"/>
+    <rect x="96" y="170" width="768" height="210" fill="url(#hero)"/>
+    <circle cx="743" cy="230" r="142" fill="#c3727b" opacity=".12"/>
+    <path d="M538 379V291a115 115 0 0 1 230 0v88M554 379V291a99 99 0 0 1 198 0v88M568 379v-88a85 85 0 0 1 170 0v88" fill="none" stroke="url(#arch)" stroke-width="1.55" opacity=".85"/>
+    <path d="M568 378v-85a85 85 0 0 1 170 0v85z" fill="#b06376" opacity=".21"/>
+    <path d="M584 379v-60q25-34 49-2l12 62m72 0v-67q-21-24-39 4l-8 63" fill="#da8e96" opacity=".23"/>
+    <path d="M595 345q51 17 109-2m-130 15q80 30 152 0" fill="none" stroke="#e8b3a7" stroke-width="1" opacity=".66"/>
+    <g fill="none" stroke="#c7a889" stroke-width="1.2" opacity=".75">
+      <path d="M753 271q15-45 53-75m-52 76q41-34 79-25m-68 70q-10-38 13-59"/>
+      <path d="M540 319q-15 25-41 36m51-49q-28-12-48-2m49 18q-1 34 18 54"/>
+    </g>
+    <g color="#b5a484">
+      <use href="#leaf" transform="translate(785 219) rotate(-21) scale(.95)"/>
+      <use href="#leaf" transform="translate(798 211) rotate(-41) scale(.72)"/>
+      <use href="#leaf" transform="translate(797 245) rotate(18) scale(.89)"/>
+      <use href="#leaf" transform="translate(779 267) rotate(-56) scale(.86)"/>
+      <use href="#leaf" transform="translate(765 295) rotate(43) scale(.78)"/>
+      <use href="#leaf" transform="translate(534 338) rotate(163) scale(.96)"/>
+      <use href="#leaf" transform="translate(534 308) rotate(184) scale(.93)"/>
+      <use href="#leaf" transform="translate(551 345) rotate(118) scale(.92)"/>
+    </g>
+    <g color="#edb7b6">
+      <use href="#flower" transform="translate(762 244) scale(1.48)"/>
+      <use href="#flower" transform="translate(797 214) rotate(19) scale(.9)"/>
+      <use href="#flower" transform="translate(533 338) rotate(-23) scale(1.32)"/>
+      <use href="#flower" transform="translate(562 320) rotate(21) scale(.87)"/>
+    </g>
+    <g color="#b95877">
+      <use href="#flower" transform="translate(785 245) rotate(-18) scale(1.14)"/>
+      <use href="#flower" transform="translate(757 272) rotate(26) scale(1.17)"/>
+      <use href="#flower" transform="translate(541 313) rotate(25) scale(1.16)"/>
+      <use href="#flower" transform="translate(554 353) rotate(-16) scale(1.02)"/>
+    </g>
+    <g color="#f3d0af">
+      <use href="#flower" transform="translate(779 226) scale(.76)"/>
+      <use href="#flower" transform="translate(774 278) rotate(-20) scale(.65)"/>
+      <use href="#flower" transform="translate(512 324) rotate(22) scale(.76)"/>
+      <use href="#flower" transform="translate(548 333) rotate(20) scale(.65)"/>
+    </g>
+    <text x="135" y="212" fill="#edbbca" font-size="10" font-weight="700" letter-spacing="2.2">LUXURY EVENT DESIGN</text>
+    <text x="132" y="261" fill="#fff1e6" font-family="Georgia, serif" font-size="42">An evening</text>
+    <text x="132" y="306" fill="#fff1e6" font-family="Georgia, serif" font-size="39" font-style="italic">to remember.</text>
+    <rect x="135" y="331" width="115" height="28" rx="3" fill="#efd1bf"/>
+    <text x="192.5" y="349" text-anchor="middle" fill="#492841" font-size="8.5" font-weight="700" letter-spacing="1">VIEW PORTFOLIO</text>
+    <text x="135" y="406" fill="#432b42" font-family="Georgia, serif" font-size="20">Selected celebrations</text>
+    <g transform="translate(135 419)">
+      <rect width="216" height="77" rx="5" fill="#eddbde"/>
+      <rect x="8" y="8" width="67" height="61" rx="3" fill="#714b61"/>
+      <path d="M22 60V39a19.5 19.5 0 0 1 39 0v21m-34 0V39a14.5 14.5 0 0 1 29 0v21" fill="none" stroke="#e8b8b5" stroke-width="1.2"/>
+      <use href="#flower" color="#e1a4ac" transform="translate(55 29) scale(.55)"/>
+      <text x="88" y="34" fill="#513649" font-size="11" font-weight="700">Weddings</text>
+      <rect x="88" y="45" width="78" height="4" rx="2" fill="#b997a4"/>
+    </g>
+    <g transform="translate(372 419)">
+      <rect width="216" height="77" rx="5" fill="#eadbdf"/>
+      <rect x="8" y="8" width="67" height="61" rx="3" fill="#7e556d"/>
+      <path d="M42 19v15m-20 6q20 20 40 0m-36 0h32m-22 8h12m-23-8v-7m33 7v-7" fill="none" stroke="#edc6ab" stroke-width="1.35"/>
+      <path d="M28 57l2-2 2 2-2 2zm23 4 2-2 2 2-2 2z" fill="#f4bcb7"/>
+      <text x="88" y="34" fill="#513649" font-size="11" font-weight="700">Mitzvahs</text>
+      <rect x="88" y="45" width="84" height="4" rx="2" fill="#bc9aa9"/>
+    </g>
+    <g transform="translate(609 419)">
+      <rect width="216" height="77" rx="5" fill="#efddd6"/>
+      <rect x="8" y="8" width="67" height="61" rx="3" fill="#9d6870"/>
+      <ellipse cx="42" cy="46" rx="23" ry="7" fill="#f1cab6"/>
+      <path d="M20 46l-3 14h50l-3-14z" fill="#d69b9d"/>
+      <path d="M35 45V31h3v14m7 0V27h3v18" stroke="#f8e0c0" stroke-width="1.2" fill="#f8e0c0"/>
+      <path d="M37 29q-4-4 0-7 4 3 0 7m10-4q-4-4 0-7 4 3 0 7" fill="#ffdeb0"/>
+      <text x="88" y="34" fill="#513649" font-size="11" font-weight="700">Social events</text>
+      <rect x="88" y="45" width="93" height="4" rx="2" fill="#c3a09c"/>
+    </g>
+  </g>
+  <text x="480" y="559" text-anchor="middle" fill="#ead5de" font-family="Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="2.65">CONCEPT PREVIEW</text>
+</svg>

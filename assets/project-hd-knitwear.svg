@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600" role="img" aria-labelledby="title desc">
+<title id="title">HD KNITWEAR concept preview</title>
+<desc id="desc">An illustrated knitwear manufacturer website with a textured knit motif, product collection cards, and a quote button.</desc>
+<defs>
+<linearGradient id="canvas" x2="1" y2="1"><stop stop-color="#14142d"/><stop offset=".65" stop-color="#0b1224"/><stop offset="1" stop-color="#161631"/></linearGradient>
+<radialGradient id="accent"><stop stop-color="#5be0d0" stop-opacity=".38"/><stop offset="1" stop-color="#5be0d0" stop-opacity="0"/></radialGradient>
+<radialGradient id="accent2"><stop stop-color="#c3b981" stop-opacity=".22"/><stop offset="1" stop-color="#c3b981" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0v28" stroke="#e0e1ff" stroke-width="1" fill="none" opacity=".12"/></pattern>
+<clipPath id="screen"><rect x="96" y="124" width="768" height="391" rx="0"/></clipPath>
+<linearGradient id="h-hero" x2="1" y2="1"><stop stop-color="#102c2b"/><stop offset="1" stop-color="#244741"/></linearGradient>
+<pattern id="h-knit" width="16" height="24" patternUnits="userSpaceOnUse"><path d="M1-2q5 7 7 13 2-6 7-13M1 10q5 7 7 13 2-6 7-13M1 22q5 7 7 13 2-6 7-13" fill="none" stroke="#e6d7a7" stroke-width="1.2" opacity=".33"/></pattern>
+<linearGradient id="h-fabric" x2="1" y2="1"><stop stop-color="#c7af79"/><stop offset="1" stop-color="#7f8764"/></linearGradient>
+</defs>
+<rect width="960" height="600" fill="url(#canvas)"/>
+<ellipse cx="122" cy="110" rx="340" ry="230" fill="url(#accent)"/>
+<ellipse cx="826" cy="543" rx="351" ry="211" fill="url(#accent2)"/>
+<rect width="960" height="600" fill="url(#grid)" opacity=".5"/>
+<g fill="none" stroke="#5be0d0" opacity=".45"><path d="M55 111V67a12 12 0 0 1 12-12h42M905 111V67a12 12 0 0 0-12-12h-42M55 489v44a12 12 0 0 0 12 12h42M905 489v44a12 12 0 0 1-12 12h-42"/></g>
+<rect x="90" y="89" width="780" height="439" rx="15" fill="#050713" opacity=".42"/>
+<rect x="86" y="78" width="788" height="446" rx="14" fill="#182137" stroke="#8796ce" stroke-opacity=".47"/>
+<rect x="96" y="124" width="768" height="391" fill="#f1eee7"/>
+<circle cx="108" cy="101" r="3.5" fill="#e594a8"/><circle cx="120" cy="101" r="3.5" fill="#e1c291"/><circle cx="132" cy="101" r="3.5" fill="#93d9bf"/>
+<rect x="328" y="91" width="304" height="20" rx="5" fill="#0b1428" stroke="#6275a0" stroke-opacity=".38"/>
+<text x="480" y="104.6" text-anchor="middle" fill="#b7c6e3" font-family="Arial,sans-serif" font-size="9.4">hdknitwear.com</text>
+<g clip-path="url(#screen)" font-family="Arial,Helvetica,sans-serif">
+<rect x="96" y="124" width="768" height="46" fill="#f6f3eb"/>
+<text x="135" y="152" fill="#24322e" font-size="12" font-weight="800" letter-spacing="2">HD KNITWEAR</text>
+<g fill="#53625b" font-size="9" font-weight="700" letter-spacing=".65">
+  <text x="550" y="152">COLLECTIONS</text><text x="638" y="152">MANUFACTURING</text><text x="757" y="152">CONTACT</text>
+</g>
+<rect x="96" y="170" width="768" height="207" fill="url(#h-hero)"/>
+<text x="135" y="214" fill="#d8c99b" font-size="10" font-weight="700" letter-spacing="2.7">CUSTOM MENSWEAR</text>
+<text x="133" y="261" fill="#f9f4df" font-family="Georgia,serif" font-size="39">Made for</text>
+<text x="133" y="305" fill="#f9f4df" font-family="Georgia,serif" font-size="39">your collection.</text>
+<rect x="135" y="328" width="118" height="26" rx="3" fill="#d5c596"/>
+<text x="152" y="345" fill="#1a332d" font-size="9" font-weight="700" letter-spacing="1.15">REQUEST A QUOTE</text>
+<g transform="translate(548 174) rotate(9 124 100)">
+  <path d="M50 28L98 12q26 26 52 0l49 16 42 58-35 26-18-20v105H60V92l-18 20L7 86z" fill="#0c211d" opacity=".4" transform="translate(10 8)"/>
+  <path d="M50 28L98 12q26 26 52 0l49 16 42 58-35 26-18-20v105H60V92l-18 20L7 86z" fill="url(#h-fabric)" stroke="#e6d6a5" stroke-width="1.5"/>
+  <path d="M50 28L98 12q26 26 52 0l49 16 42 58-35 26-18-20v105H60V92l-18 20L7 86z" fill="url(#h-knit)"/>
+  <path d="M98 12q26 26 52 0l-8 17-18 16-18-16z M61 180h126v17H61z" fill="#717b59" opacity=".78"/>
+  <path d="M123 39v29m-65 24-8-64m138 64 11-64" stroke="#706d4f" stroke-width="1.4" fill="none" opacity=".7"/>
+</g>
+<text x="135" y="405" fill="#283531" font-family="Georgia,serif" font-size="20">Knitwear collections</text>
+<g transform="translate(135 419)">
+  <rect width="212" height="79" rx="5" fill="#e6e6d9"/>
+  <rect x="8" y="8" width="68" height="63" rx="3" fill="#c6cbb9"/>
+  <path d="M24 31l13-6 6 5 6-5 13 6 6 11-8 4-4-4v20H30V42l-4 4-8-4z" fill="#627969"/>
+  <text x="89" y="32" fill="#243a30" font-size="11" font-weight="700">Knitted polos</text>
+  <rect x="89" y="43" width="80" height="4" rx="2" fill="#a6ad9c"/>
+</g>
+<g transform="translate(373 419)">
+  <rect width="212" height="79" rx="5" fill="#e9e2d3"/>
+  <rect x="8" y="8" width="68" height="63" rx="3" fill="#ddc9ad"/>
+  <path d="M25 29l12-5 6 5 6-5 12 5 10 22-9 4-6-13v20H30V42l-6 13-9-4z" fill="#987955"/>
+  <text x="89" y="32" fill="#473b2d" font-size="11" font-weight="700">Cardigans</text>
+  <rect x="89" y="43" width="74" height="4" rx="2" fill="#b9ad98"/>
+</g>
+<g transform="translate(611 419)">
+  <rect width="212" height="79" rx="5" fill="#e1e4e3"/>
+  <rect x="8" y="8" width="68" height="63" rx="3" fill="#b9c4c6"/>
+  <path d="M25 30l12-5 6 4 6-4 12 5 10 22-9 4-6-13v19H30V43l-6 13-9-4z" fill="#556b72"/>
+  <text x="89" y="32" fill="#344b4d" font-size="11" font-weight="700">Pullovers</text>
+  <rect x="89" y="43" width="79" height="4" rx="2" fill="#a3aeaa"/>
+</g></g>
+<text x="480" y="559" text-anchor="middle" fill="#d0d8ee" font-family="Arial,Helvetica,sans-serif" font-size="10.5" font-weight="700" letter-spacing="2.65">CONCEPT PREVIEW</text>
+</svg>
